@@ -1,15 +1,1 @@
-### Hi there 👋
-
-<!--
-**Amit9031/amit9031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently student in LPU ...
-- 🌱 I’m currently learning programming language....
-- 🤔 I’m looking for help with ...my work
-- 💬 Ask me about ..my life .
-- 📫 How to reach me: directly on this...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+abc
